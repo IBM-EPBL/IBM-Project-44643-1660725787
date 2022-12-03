@@ -1,0 +1,21 @@
+Digitisation of Railways Includes:
+
+.) B-scan ultrasonic rail flaw detection (both non-stop and stop-and-verify systems) and track inspection with automated high-speed test trains.
+
+.) Train control system levels 2 and 3 for high-density routes to increase network capacity and maintain the required safety standards.
+
+.) Increased surveillance of personnel with both interior and exterior locomotive-mounted video surveillance to improve monitoring.
+
+.) Track-laying machines for mechanisation of construction.
+
+.) Electrification through machines such as self-propelled overhead electrification laying trains.
+
+.) Complete train scanners for improved diagnostics and maintenance.
+
+.) Use of distributed power to improve the efficiency of train operations with coordinated acceleration and deceleration.
+
+.) Establishment of smart railway stations by implementing access control at entry points.
+
+.) e-ticketing with services such as infotainment and app-based systems.
+
+.) Use of training simulators and virtual reality (VR) training systems to improve personnel capabilities.
